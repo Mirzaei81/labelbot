@@ -1,5 +1,4 @@
 name: 'Labelbot'
-description: 'Labelbot-Image/CD'
 on:
   push:
     branches:
