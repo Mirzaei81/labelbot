@@ -30,4 +30,4 @@ jobs:
         with:
             context: .
             push: true
-            tags: ${{ env.REGISTRY }}/mirzaei81/${{IMAGE_NAME}}:latest
+            tags: ${{ env.REGISTRY }}/mirzaei81/${{env.IMAGE_NAME}}:latest
